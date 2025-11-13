@@ -3,7 +3,7 @@
   "theme": "mint",
   "name": "Mint Starter Kit",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#1677FF",
     "light": "#07C983",
     "dark": "#15803D"
   },
@@ -88,8 +88,8 @@
     "dark": "/logo/dark.svg"
   },
   "banner": {
-   "content": "⚠️ Scheduled maintenance: API will be unavailable December 15, 2-4 AM UTC",
-   "dismissible": false
+   "content": "**Action required:** Migrate to our new version by January 1. [Migration guide](/migration)",
+   "dismissible": true
   },
   "navbar": {
     "links": [
